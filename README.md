@@ -92,7 +92,7 @@ The key cleaning steps included:
 - Age group **36–60** visits the hospital most frequently (**21 patients**)
 - **MedCare Plus** and **WellnessCorp** are the most used insurance providers
 
-  ### 👨‍⚕️ 2 Doctor Table – Insights
+### 👨‍⚕️ 2 Doctor Table – Insights
 
 #### Business Questions:
 
@@ -109,7 +109,7 @@ The key cleaning steps included:
 - The average experience of doctors is **21 years**
 - **Central Hospital** has the highest number of doctors
 - Revenue contribution varies across doctors based on specialization and appointment volume
-- ### 📅 3 Appointment Table – Insights
+ ### 📅 3 Appointment Table – Insights
 
 #### Business Questions:
 
@@ -124,9 +124,9 @@ The key cleaning steps included:
 - **Checkups and Consultations** are the most common reasons for visits
 - The No-Show rate stands at **26%**, indicating a significant opportunity to improve appointment adherence and scheduling efficiency
 - **Wednesday and Tuesday** record the highest patient traffic, suggesting mid-week peak demand
-- ## 💉 4 Treatment Table – Insights  
+ ### 💉 4 Treatment Table – Insights  
 
-### Business Questions:
+#### Business Questions:
 
 - Which treatment types are most common?  
 - What is the average treatment cost?  
@@ -141,9 +141,9 @@ The key cleaning steps included:
 - January recorded 20 treatments, while March and May recorded 19 each
 - The lowest treatment volume was observed in September 2023 (11 treatments)
 - Chemotherapy generates the highest overall demand among all treatment types
-## 💳 5 Billing Table – Insights  
+### 💳 5 Billing Table – Insights  
 
-### Business Questions:
+#### Business Questions:
 
 - What is the total revenue generated?  
 - How many payments are Paid / Pending / Failed?  
